@@ -1,5 +1,5 @@
 {
-  "name": "mycompany/php-mtls-hmac",
+  "name": "RossKvit/php-mtls-hmac",
   "description": "mTLS + HMAC-signed GET client for testing",
   "type": "library",
   "license": "MIT",
