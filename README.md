@@ -44,18 +44,6 @@ API_ENDPOINT=https://client.badssl.com/
 - The Signer canonicalizes by sorting keys and building an RFC3986-encoded query string, then computing HMAC-SHA256.
 
 
-## Recommended extras
-
-
-- Add more robust request/response logging (PSR-3)
-- Add retries and circuit-breaker logic for production usage
-- Add a convenient command-line script or small example script to demonstrate calling the client
-````
-
-
----
-
-
 ## Final notes
 
 
